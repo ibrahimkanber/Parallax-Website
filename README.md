@@ -1,5 +1,7 @@
 # Project-003 : Parallax Website (HC-03)
 
+https://ibrahimkanber.github.io/Parallax-Website/
+
 ## Description
 Project aims to create parallax website.
 
